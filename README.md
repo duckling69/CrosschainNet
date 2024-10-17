@@ -4,6 +4,8 @@
 
 ## Product Name: CrossChainConnect
 
+## Demo video: https://www.loom.com/share/527cf2e906e444fbb4a0a1e8039dcc4f?sid=24ee707e-fdca-4c97-81fd-3215c5eb43d7
+
 ### Overview
 CrossChainConnect is a seamless platform designed to automate token airdrops while providing real-time wallet monitoring for projects on Solana and Ethereum. By leveraging the Streamflow API for efficient airdrop management and the Synternet Data Layer SDK for live transaction insights, CrossChainConnect enhances transparency and efficiency in token distribution and wallet activity tracking.
 
