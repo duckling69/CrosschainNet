@@ -10,7 +10,10 @@ function Footer() {
       transition={{ duration: 0.8 }}
       style={{ backgroundColor: '#1a1a1a', padding: '40px 0' }}
     >
-      <Container maxWidth="lg">
+      <Container maxWidth="lg" style={
+        {fixed: 'bottom',}
+
+      }>
         <Box textAlign="center" py={3}>
           <Typography
             variant="h6"

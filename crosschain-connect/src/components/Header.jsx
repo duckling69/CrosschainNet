@@ -11,6 +11,7 @@ function Header() {
         backgroundColor: '#1a1a1a',
         boxShadow: 'none',
         borderBottom: '1px solid rgba(255,255,255,0.1)',
+        marginBottom: '20px',
       }}
     >
       <Toolbar style={{ justifyContent: 'space-between' }}>
